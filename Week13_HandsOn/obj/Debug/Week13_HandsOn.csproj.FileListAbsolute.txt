@@ -1,0 +1,10 @@
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\bin\Debug\Week13_HandsOn.exe.config
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\bin\Debug\Week13_HandsOn.exe
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\bin\Debug\Week13_HandsOn.pdb
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.csprojAssemblyReference.cache
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.Cars.resources
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.Properties.Resources.resources
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.csproj.GenerateResource.cache
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.csproj.CoreCompileInputs.cache
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.exe
+C:\College\COMP 123\Week13\Week13_HandsOn\Week13_HandsOn\obj\Debug\Week13_HandsOn.pdb
